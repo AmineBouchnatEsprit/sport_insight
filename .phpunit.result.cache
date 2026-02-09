@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\ProductEntityTest::testProductCreation":0.004,"App\\Tests\\ProductEntityTest::testProductSetImage":0,"App\\Tests\\ProductEntityTest::testProductStockManagement":0,"App\\Tests\\ProductEntityTest::testProductNullableFields":0}}
